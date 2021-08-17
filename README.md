@@ -1,3 +1,3 @@
-  Zahra Dadbood
+  Zahra Dadboo
 # CourseStore
 New Line
